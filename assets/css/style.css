@@ -6,7 +6,7 @@
 }
 
 ::selection {
-    background-color: #ff3a5e;
+    background-color: #3ab7ff;
     color: #fff
 }
 
@@ -68,7 +68,7 @@ html {
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: #ff3a5e;
+    background-color: #3ab7ff;
     border-radius: 8px
 }
 
@@ -133,7 +133,7 @@ header .grid-layout nav .nav-list li a::after {
     height: 1px;
     bottom: -7px;
     left: 0;
-    background: linear-gradient(270deg, #ff3a5e 0%, #17161d 100%);
+    background: linear-gradient(270deg, #3ab7ff 0%, #17161d 100%);
     transform-origin: bottom right;
     transition: transform .5s cubic-bezier(0.86, 0, 0.07, 1)
 }
@@ -279,7 +279,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #s-home .grid-layout #home #home-container-text h1 span {
-    color: #ff3a5e
+    color: #3ab7ff
 }
 
 #s-home .grid-layout #home #home-container-text p {
@@ -292,7 +292,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #s-home .grid-layout #home #home-container-text a {
-    background: #ff3a5e;
+    background: #3ab7ff;
     color: #fff;
     backdrop-filter: blur(10px);
     padding: 20px 32px;
@@ -447,7 +447,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #s-about .grid-layout #about-text h2 span {
-    color: #ff3a5e
+    color: #3ab7ff
 }
 
 #s-about .grid-layout #about-text p {
@@ -477,7 +477,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #s-experience .grid-layout h2 span {
-    color: #ff3a5e
+    color: #3ab7ff
 }
 
 #s-experience .grid-layout #experience {
@@ -505,8 +505,8 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #s-experience .grid-layout #experience .option-experience .activeExperience {
-    border-left: 4px solid #ff3a5e;
-    color: #ff3a5e
+    border-left: 4px solid #3ab7ff;
+    color: #3ab7ff
 }
 
 #s-experience .grid-layout #experience .option-experience>div {
@@ -562,7 +562,7 @@ header .grid-layout nav .nav-list li a:hover {
     font-size: 1.8rem;
     margin: 32px 0px;
     font-weight: 400;
-    color: #ff3a5e
+    color: #3ab7ff
 }
 
 #s-experience .grid-layout #experience .text-experience p {
@@ -591,7 +591,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #s-projects .grid-layout h2 span {
-    color: #ff3a5e
+    color: #3ab7ff
 }
 
 #s-projects .grid-layout #projects {
@@ -603,28 +603,19 @@ header .grid-layout nav .nav-list li a:hover {
     text-align: left
 }
 
-#s-projects .grid-layout #projects .teslabank {
+
+#s-projects .grid-layout #projects .redd:hover {
     border: 1px solid #e51d37
 }
 
-#s-projects .grid-layout #projects .teslabank:hover {
-    border: 1px solid #e51d37
-}
 
-#s-projects .grid-layout #projects .naped {
+#s-projects .grid-layout #projects .bluee:hover {
     border: 1px solid #00a3ff
 }
 
-#s-projects .grid-layout #projects .naped:hover {
-    border: 1px solid #00a3ff
-}
 
-#s-projects .grid-layout #projects .pokedex {
-    border: 1px solid #5856d6
-}
-
-#s-projects .grid-layout #projects .pokedex:hover {
-    border: 1px solid #5856d6
+#s-projects .grid-layout #projects .purplee:hover {
+    border: 1px solid #e2e614
 }
 
 #s-projects .grid-layout #projects>article {
@@ -639,9 +630,7 @@ header .grid-layout nav .nav-list li a:hover {
     min-height: 275px
 }
 
-#s-projects .grid-layout #projects>article:hover {
-    border: 1px solid #ff3a5e
-}
+
 
 @media screen and (max-width: 1200px) {
     #s-projects .grid-layout #projects>article {
@@ -669,46 +658,45 @@ header .grid-layout nav .nav-list li a:hover {
     font-size: 1.8rem
 }
 
-#s-projects .grid-layout #teslabank {
-    color: #e51d37
+#s-projects .grid-layout #redd {
+    color: #e51d1d
 }
 
-#s-projects .grid-layout #teslabank::after {
+#s-projects .grid-layout #redd::after {
     background: linear-gradient(270deg, #e51d37 0%, #17161d 100%)
 }
 
-#s-projects .grid-layout #naped {
+#s-projects .grid-layout #bluee {
     color: #00a3ff
 }
 
-#s-projects .grid-layout #naped::after {
+#s-projects .grid-layout #bluee::after {
     background: linear-gradient(270deg, #00a3ff 0%, #17161d 100%)
 }
 
-#s-projects .grid-layout #pokedex {
-    color: #5856d6
+#s-projects .grid-layout #purplee {
+    color: #e2e61f
 }
 
-#s-projects .grid-layout #pokedex::after {
-    background: linear-gradient(270deg, #5856d6 0%, #17161d 100%)
+#s-projects .grid-layout #purplee::after {
+    background: linear-gradient(270deg, #e7eb09 0%, #17161d 100%)
 }
 
 #s-projects .grid-layout a {
-    color: #ff3a5e;
+    color: #3ab7ff;
     position: relative;
     font-size: 1.8rem;
     font-weight: 400
 }
 
 #s-projects .grid-layout a::after {
-    content: "";
     position: absolute;
     width: 100%;
     transform: scaleX(0);
     height: 1px;
     bottom: -7px;
     left: 0;
-    background: linear-gradient(270deg, #ff3a5e 0%, #17161d 100%);
+    background: linear-gradient(270deg, #3ab7ff 0%, #17161d 100%);
     transform-origin: bottom right;
     transition: transform .5s cubic-bezier(0.86, 0, 0.07, 1)
 }
@@ -755,7 +743,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #s-services .grid-layout h2 span {
-    color: #ff3a5e
+    color: #3ab7ff
 }
 
 #s-services .grid-layout #services {
@@ -777,7 +765,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #s-services .grid-layout #services article:hover {
-    border: 1px solid #ff3a5e
+    border: 1px solid #3ab7ff
 }
 
 @media screen and (max-width: 1200px) {
@@ -859,7 +847,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #s-skills .grid-layout #skills #skills-text h2 span {
-    color: #ff3a5e
+    color: #3ab7ff
 }
 
 #s-skills .grid-layout #skills #skills-text .changeDescription {
@@ -901,7 +889,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #s-skills .grid-layout #skills #skills-cards article:hover {
-    border: 1px solid #ff3a5e
+    border: 1px solid #f5a802
 }
 
 #s-skills .grid-layout #skills #skills-cards article:hover .skills-cards-name,
@@ -1007,7 +995,7 @@ footer .grid-layout div img {
     margin-left: 8px;
     opacity: 1;
     animation: blink 1s infinite;
-    color: #ff3a5e
+    color: #37db0e
 }
 
 @keyframes blink {

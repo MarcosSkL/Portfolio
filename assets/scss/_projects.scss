@@ -13,19 +13,19 @@
       margin: $gap-3 0px;
       @include flexbox-between;
       text-align: left;
-      .teslabank {
+      .redd {
         border: 1px solid #e51d37;
         &:hover {
           border: 1px solid #e51d37;
         }
       }
-      .naped {
+      .bluee {
         border: 1px solid #00a3ff;
         &:hover {
           border: 1px solid #00a3ff;
         }
       }
-      .pokedex {
+      .purplee {
         border: 1px solid #5856d6;
         &:hover {
           border: 1px solid #5856d6;
