@@ -32,8 +32,8 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/iuricode">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+      <a href="https://github.com/MarcosSkL">
+ 
         <sub>
           <b>Iuri Silva</b>
         </sub>
