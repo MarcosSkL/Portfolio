@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻<br>Portfólio - Iuri Silva
+  💻<br>Portfólio - Marcos Bezerra
 </h1>
 
 ![Resultado final do projeto](assets/image/preview.png)
