@@ -26,18 +26,3 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 - SVG Inject;
 
 ---
-
-<h2>🦄 Autor</h2>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/MarcosSkL">
- 
-        <sub>
-          <b>Iuri Silva</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
