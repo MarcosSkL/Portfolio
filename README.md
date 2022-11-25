@@ -2,10 +2,6 @@
   💻<br>Portfólio - Marcos Bezerra
 </h1>
 
-![Resultado final do projeto](assets/image/preview.png)
-
-<h4 align="center"><a href="https://www.iuricode.com/">Clique para visitar o projeto</a></h4>
-
 ## 📚 Seções
 
 O site é composto por cinco seções:
