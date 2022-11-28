@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻<br>Portfólio - Marcos Bezerra
+  💻<br>Portfolio - Marcos Bezerra
 </h1>
 
 ## 📚 Seções
